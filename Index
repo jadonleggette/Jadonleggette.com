@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Jadon Leggette | Finance, Cities, and People</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta
+    name="description"
+    content="Portfolio of Jadon Leggette, Finance & Insurance Manager, researcher, and founder of the RCC Finance & Investment Banking Society. Work at the intersection of finance, urban policy, and design."
+  />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Header / Nav -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="logo">JL</div>
+      <nav class="main-nav">
+        <a href="#about">About</a>
+        <a href="#research">Research</a>
+        <a href="#photography">Photography</a>
+        <a href="#leadership">Community</a>
+        <a href="#vision">Future Vision</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section id="hero" class="hero">
+    <div class="container hero-inner">
+      <div class="hero-text">
+        <p class="tagline">Finance. Cities. People.</p>
+        <h1>I am Jadon Leggette.</h1>
+        <p class="hero-subtitle">
+          Finance & Insurance Manager, researcher, and founder of the RCC Finance & Investment Banking Society.
+          My work explores how capital, planning, and design shape real opportunities for people in American cities.
+        </p>
+        <div class="hero-cta">
+          <a href="#research" class="btn primary">View research</a>
+          <a href="#photography" class="btn ghost">View photography</a>
+        </div>
+      </div>
+      <div class="hero-accent">
+        <div class="hero-card">
+          <h2>Finance and the human city</h2>
+          <p>
+            Numbers tell part of the story. Streets, buildings, and faces tell the rest.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- About -->
+  <section id="about" class="section">
+    <div class="container section-inner">
+      <div class="section-header">
+        <h2>About Me</h2>
+        <p class="section-kicker">Who I am and what I care about</p>
+      </div>
+      <div class="grid two-col">
+        <div>
+          <p>
+            I am a Finance & Insurance Manager and business student who works at the intersection of
+            finance, urban policy, and design. During the day I work in auto finance. Outside of work
+            I build models, research economic inequality, and study how cities either expand or choke off opportunity.
+          </p>
+          <p>
+            I founded the RCC Finance & Investment Banking Society to give community college students
+            a real path into high finance. We learn valuation and modeling, host speakers from industry,
+            and treat Riverside as a living lab for questions about capital, growth, and equity.
+          </p>
+          <p>
+            This site connects three parts of my life: research on the wealth divide, documentary
+            photography of Riverside and abroad, and leadership projects that try to move opportunity
+            closer to the people who are usually shut out.
+          </p>
+        </div>
+        <div class="about-highlight">
+          <h3>Focus</h3>
+          <ul>
+            <li>Economic inequality and urban policy</li>
+            <li>Investment banking and capital flows</li>
+            <li>City form, infrastructure, and design</li>
+            <li>Community leadership and access to opportunity</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Research -->
+  <section id="research" class="section alt">
+    <div class="container section-inner">
+      <div class="section-header">
+        <h2>Research</h2>
+        <p class="section-kicker">The Price of the Dream and related work</p>
+      </div>
+
+      <article class="research-card">
+        <h3>The Price of the Dream: Confronting America’s Wealth Divide</h3>
+        <p class="research-meta">
+          Original research project, Riverside City College Student Research Conference
+        </p>
+
+        <p class="research-abstract-label">Abstract</p>
+        <p class="research-abstract">
+          This project examines how the American wealth divide is produced and sustained through
+          the everyday structures of policy and place. Using Riverside and the Inland Empire as a
+          case study, I connect tax policy, housing markets, and labor conditions to the spatial
+          realities that people actually live in, such as long commutes, fragmented transit, and
+          concentrated poverty. Drawing on economic data, urban planning research, and on-the-ground
+          observation, I argue that inequality is not an accident or a temporary glitch in the market,
+          but the result of deliberate choices about what and whom our cities are designed to serve.
+        </p>
+        <p class="research-abstract">
+          The paper proposes reforms that treat equity as a design problem as much as a moral one:
+          more progressive tax structures, aggressive investment in affordable and mixed income housing,
+          and land use decisions that shorten distances between home, work, and essential services.
+          By pairing quantitative analysis with the physical and emotional experience of moving through
+          a city like Riverside, the project argues that closing the wealth divide requires changing both
+          how capital flows and how space is built.
+        </p>
+
+        <div class="research-actions">
+          <a href="assets/research/price-of-the-dream.pdf" class="btn primary" target="_blank" rel="noopener">
+            Read full paper (PDF)
+          </a>
+        </div>
+      </article>
+
+      <div class="grid two-col research-notes">
+        <div>
+          <h4>In progress</h4>
+          <ul>
+            <li>Essays on transit, commute time, and social mobility</li>
+            <li>Short pieces on zoning, redlining, and modern exclusion</li>
+            <li>Case studies that link financial models to neighborhood outcomes</li>
+          </ul>
+        </div>
+        <div>
+          <h4>Planned directions</h4>
+          <ul>
+            <li>Comparative studies of Inland Empire and coastal metro areas</li>
+            <li>Blending urban photography with data storytelling</li>
+            <li>Deeper work on how capital markets shape the built environment</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Photography -->
+  <section id="photography" class="section">
+    <div class="container section-inner">
+      <div class="section-header">
+        <h2>Photography</h2>
+        <p class="section-kicker">Cities as living archives</p>
+      </div>
+
+      <p class="section-intro">
+        I use photography to document the textures of the city: facades at golden hour, empty streets
+        after closing time, and the faces of people who keep the place running. This work sits next to
+        my research because policy is abstract until you see who lives inside it.
+      </p>
+
+      <div class="photo-section">
+        <h3>The City as Canvas: Riverside</h3>
+        <p class="photo-text">
+          A selection of images that focus on Riverside’s architecture, street life, and the fault lines
+          between old and new development.
+        </p>
+        <div class="photo-grid">
+          <!-- Replace src paths with your real files -->
+          <figure class="photo-item">
+            <img src="assets/photos/riverside-1.jpg" alt="Downtown Riverside streetscape" />
+            <figcaption>Mission Inn district at dusk</figcaption>
+          </figure>
+          <figure class="photo-item">
+            <img src="assets/photos/riverside-2.jpg" alt="High rise and palm trees in Riverside" />
+            <figcaption>Palms against speculative glass</figcaption>
+          </figure>
+          <figure class="photo-item">
+            <img src="assets/photos/riverside-3.jpg" alt="Street life in Riverside" />
+            <figcaption>Everyday life on University Avenue</figcaption>
+          </figure>
+          <figure class="photo-item">
+            <img src="assets/photos/riverside-4.jpg" alt="Neighborhood street scene" />
+            <figcaption>Side streets and quiet stories</figcaption>
+          </figure>
+        </div>
+      </div>
+
+      <div class="photo-section">
+        <h3>International Views</h3>
+        <p class="photo-text">
+          My best international photos, focused on how different cities carry their history, class lines,
+          and aspirations in public view. These images sit in dialogue with Riverside, not separate from it.
+        </p>
+        <div class="photo-grid">
+          <!-- Replace src paths with your real files -->
+          <figure class="photo-item">
+            <img src="assets/photos/international-1.jpg" alt="Cityscape from abroad" />
+            <figcaption>Skyline from a hillside lookout</figcaption>
+          </figure>
+          <figure class="photo-item">
+            <img src="assets/photos/international-2.jpg" alt="Street market scene abroad" />
+            <figcaption>Market life in motion</figcaption>
+          </figure>
+          <figure class="photo-item">
+            <img src="assets/photos/international-3.jpg" alt="Historic building abroad" />
+            <figcaption>Old stone, new money</figcaption>
+          </figure>
+          <figure class="photo-item">
+            <img src="assets/photos/international-4.jpg" alt="Transit or station abroad" />
+            <figcaption>Transit lines and class lines</figcaption>
+          </figure>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Community / Leadership -->
+  <section id="leadership" class="section alt">
+    <div class="container section-inner">
+      <div class="section-header">
+        <h2>Community and Leadership</h2>
+        <p class="section-kicker">RCC Finance & Investment Banking Society and beyond</p>
+      </div>
+
+      <div class="grid two-col">
+        <div>
+          <h3>RCC Finance & Investment Banking Society</h3>
+          <p>
+            I founded the RCC Finance & Investment Banking Society to prove that community college students
+            can compete for the same roles as students from target schools. We build skills in valuation,
+            Excel, and deal analysis, and we connect those skills back to the communities we come from.
+          </p>
+          <ul class="bulleted">
+            <li>Founder and President, Riverside City College</li>
+            <li>Structured training on accounting, valuation, and modeling</li>
+            <li>Guest speakers from investment banks and advisory firms</li>
+            <li>Planned firm visits and pitch competitions</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Programs and events</h3>
+          <ul class="bulleted">
+            <li>Finance career workshops for RCC students</li>
+            <li>Financial literacy sessions and informal mentoring</li>
+            <li>Club events that connect technical skills with local issues</li>
+          </ul>
+          <p class="small-note">
+            Here I will add photos from pitch nights, guest speaker sessions, and trip snapshots
+            as we build the club archive.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Future Vision -->
+  <section id="vision" class="section">
+    <div class="container section-inner">
+      <div class="section-header">
+        <h2>Future Vision</h2>
+        <p class="section-kicker">Where I want this work to go</p>
+      </div>
+
+      <div class="grid two-col">
+        <div>
+          <p>
+            I want to use finance and urban planning to design fairer cities. That means treating a capital
+            stack and a zoning map as two sides of the same question. Who gets to live near jobs. Who spends
+            hours in traffic. Who benefits when a neighborhood is labeled up and coming, and who is quietly
+            priced out.
+          </p>
+          <p>
+            In practice, this looks like pushing into investment banking and urban research at the same time.
+            I want to understand how deals get done, how money moves, and how those decisions land on specific
+            blocks and buildings. Long term, I see myself working on projects where community outcomes are
+            measured with the same seriousness as returns.
+          </p>
+        </div>
+        <div>
+          <p>
+            This site is a living record of that path. As my research deepens, as the RCC Finance & Investment
+            Banking Society grows, and as I keep shooting new cities, I will keep updating this space.
+          </p>
+          <p>
+            If you are reading this as an admissions officer, a recruiter, or a future collaborator, this is
+            the core of what I am building toward: cities where opportunity is not an accident, but something
+            we design on purpose.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div>
+        <p class="footer-name">Jadon Leggette</p>
+        <p class="footer-tagline">Finance, research, and the future city.</p>
+      </div>
+      <div class="footer-links">
+        <!-- Replace with your real links -->
+        <a href="mailto:youremail@example.com">Email</a>
+        <a href="https://www.linkedin.com/" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="#hero">Back to top</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
